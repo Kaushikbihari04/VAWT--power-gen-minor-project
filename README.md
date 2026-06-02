@@ -72,6 +72,6 @@ readings — no manual zero adjustment needed.
 
 ---
 
-## Developer
+## 
 
 **Kaushik Bihari** — EEE Minor Project
